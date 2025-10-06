@@ -32,7 +32,7 @@ jobs:
         shell: bash
         run: |
           URLS=(
-            "https://backend.wplace.live/files/s0/tiles/1269/947.png"  
+            "https://backend.wplace.live/files/s0/tiles/1269/947.png"  #초록뿔냥이_모카
             "https://backend.wplace.live/files/s0/tiles/1269/948.png"
           )
 
